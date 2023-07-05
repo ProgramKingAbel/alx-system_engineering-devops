@@ -3,3 +3,4 @@
 7 movethatfile moves a file from a directory to another
 Delete dir script
 RM dir script
+10-back takes you back to the future
