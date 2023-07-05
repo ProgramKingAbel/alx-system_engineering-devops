@@ -5,3 +5,4 @@ Delete dir script
 RM dir script
 10-back takes you back to the future
 list stated files
+12 type script checks on details of filetype
