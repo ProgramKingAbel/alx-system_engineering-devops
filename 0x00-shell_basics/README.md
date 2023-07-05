@@ -2,3 +2,4 @@
 6 - first directory creates a new dir in tmp when executed
 7 movethatfile moves a file from a directory to another
 Delete dir script
+RM dir script
