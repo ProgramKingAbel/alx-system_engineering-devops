@@ -9,3 +9,4 @@ list stated files
 13symbolic link creates a symbolic link in current working directory whe script executes
 Copy selected html files script
 100 lets move files with uppercase
+101 del files in dir ending with ~
