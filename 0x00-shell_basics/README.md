@@ -7,3 +7,4 @@ RM dir script
 list stated files
 12 type script checks on details of filetype
 13symbolic link creates a symbolic link in current working directory whe script executes
+Copy selected html files script
