@@ -1,1 +1,1 @@
-Create and run shell scripts on Linux
+Create and run shell scripts on Linux -- Multi-user operating system
