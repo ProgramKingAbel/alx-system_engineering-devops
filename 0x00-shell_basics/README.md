@@ -10,3 +10,4 @@ list stated files
 Copy selected html files script
 100 lets move files with uppercase
 101 del files in dir ending with ~
+List formatted file styles
